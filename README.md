@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soedjamal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🤡 Trophy
-![](https://github-profile-trophy.vercel.app/?username=AkihikoIzuru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Soedjamal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
 Soedjamal/Soedjamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
